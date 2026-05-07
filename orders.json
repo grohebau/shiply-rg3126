@@ -1,0 +1,47 @@
+{
+  "SE428152771DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Gerlach, Mendorfer Str. 2, 93336 Altmannstein, Deutschland",
+    "receiver": "Alexander Demandt, Sonnenbergstr. 56, 73630 Remshalden-Rohrbronn, Deutschland",
+    "price": "4.200,00 €",
+    "description": "Hersteller: EuM-Agrotec<br>Typ: Vibrocat 30 Grubber<br>Baujahr: 2013<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Alexander Demandt<br>Sonnenbergstr. 56<br>73630 Remshalden-Rohrbronn<br>Deutschland<br>Telefon: +49 178 4100369",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "07.05.2026",
+    "deliveryDate": "15.05.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Hegenheimer Str. 15",
+      "postal_code": "79576",
+      "city": "Weil am Rhein",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
