@@ -28,18 +28,18 @@
     "orderDate": "07.05.2026",
     "deliveryDate": "15.05.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
-    },
-    "delivery": {
       "street": "Hegenheimer Str. 15",
       "postal_code": "79576",
       "city": "Weil am Rhein",
       "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
       "lat": "",
       "lng": ""
     }
