@@ -1,6 +1,6 @@
 {
   "SE428152771DE": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Thomas Gerlach, Mendorfer Str. 2, 93336 Altmannstein, Deutschland",
     "receiver": "Alexander Demandt, Sonnenbergstr. 56, 73630 Remshalden-Rohrbronn, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "11.05.2026",
-    "deliveryDate": "15.05.2026",
+    "deliveryDate": "19.05.2026, 15:30 Uhr",
     "pickup": {
       "street": "Hegenheimer Str. 15",
       "postal_code": "79576",
